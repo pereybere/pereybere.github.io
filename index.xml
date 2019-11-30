@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home for Sale - Pereybere - Mauritius</title>
+    <link>https://pereybere.github.io/</link>
+    <description>Recent content on Home for Sale - Pereybere - Mauritius</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 28 Nov 2019 14:57:05 +0400</lastBuildDate>
+    
+	<atom:link href="https://pereybere.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gallery</title>
+      <link>https://pereybere.github.io/gallery/</link>
+      <pubDate>Thu, 28 Nov 2019 14:57:05 +0400</pubDate>
+      
+      <guid>https://pereybere.github.io/gallery/</guid>
+      <description>&amp;nbsp;                                                         if (!jQuery) { alert(&#34;jquery is not loaded&#34;); } $( document ).ready(function() { $(&#34;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://pereybere.github.io/contact/</link>
+      <pubDate>Thu, 28 Nov 2019 11:14:27 +0400</pubDate>
+      
+      <guid>https://pereybere.github.io/contact/</guid>
+      <description>Feel free to drop us a line if you want to arrange a visit, or would like to know more information. Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+    <item>
+      <title>Details</title>
+      <link>https://pereybere.github.io/details/</link>
+      <pubDate>Thu, 28 Nov 2019 11:14:27 +0400</pubDate>
+      
+      <guid>https://pereybere.github.io/details/</guid>
+      <description>Ground Floor Terrace, leading to living space and dining area.
+Adjoining is a large room with potential e.g. as a home cinema, library or conversion to a bedroom.
+Corridor provides access to Kitchen and Utility room with adjoining shower and W/C.
+Internal door to Garage. Driveway plus roadside parking.
+First Floor Verandah with views to the South and of sunrise throughout the year. Great entry point for prevailing trade winds into the property.</description>
+    </item>
+    
+  </channel>
+</rss>
